@@ -1,43 +1,6 @@
 
    
-      ..... WELCOME.....
-
- [+] Information :
-
-   Termux-Login ~ Secure your termux using this 
-                                 simple to use 
-                                 easy to understandable 
-                                 & Editable
-                                 enjoy.....
-
-
-  
-    
-
-   
-    
-   
-
-  
-
-          Now you want autorun this log.py so follow this
-
-    
-    
-    
-
-
-    press ctrl + x and then y to save.
-
-    Now open Your Termux this script is autorun and secure termux.
-
-                                   +................................ +
-    
-         default user name and password
-              
-              Username: admin
-              Password: 12345
-    
+      .
     
     
             Change  Use rname and Password
@@ -58,8 +21,8 @@
      Ctrl + x
       Y    
       and save by enter
+
       
-      Enjoy.....
 
    
 

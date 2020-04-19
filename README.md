@@ -1,33 +1,70 @@
-#Bismillah
-#Assalamu-Alaikium
+
+   
+      ..... WELCOME.....
 
  [+] Information :
 
-   Termux is a Android emulator we can run many kali linux
-   tools in termux (android) so here i am created a small 
-   python script which works as a login form.means it lock
-   your termux app when you are open termux it ask you to
-   enter username and password.if you guys enter right 
-   username and password the termux will open means you can
-   use termux otherwise if you dont enter user and pass
-   this script will close your termux app. so hope you like
-   that .in futere i will make this script more secure/
-   insha allah.
+   Termux-Login ~ Secure your termux using this 
+                                 simple to use 
+                                 easy to understandable 
+                                 & Editable
+                                 enjoy.....
 
-   Termux-Login-v1.2 
 
-[+] warning :- if anybody want to modify this script and want to 
-    upload on own github then you guys make sure to give my original github link on your README.md as a credit..okk
-
-[+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    
 
-    cd Termux-Login
+   
+    
+   
 
-    mv README.md log.py /$HOME
+  
 
-    Now you want autorun this log.py so follow this
+          Now you want autorun this log.py so follow this
+
+    
+    
+    
+
+
+    press ctrl + x and then y to save.
+
+    Now open Your Termux this script is autorun and secure termux.
+
+                                   +................................ +
+    
+         default user name and password
+              
+              Username: admin
+              Password: 12345
+    
+    
+    
+            Change  Use rname and Password
+                    × ......................................×
+               
+            
+    cd ..
+    cd home 
+    nano log.py
+     (if you not installed nano install nano pkg first)
+     
+     pkg install nano
+     
+     and goto log.py and edit the username and pass line by this command
+     
+     ctrl + /
+     after edit 
+     Ctrl + x
+      Y    
+      and save by enter
+      
+      Enjoy.....
+
+   
+
+
+
 
     cd ..
     cd usr/etc/
@@ -36,6 +73,6 @@
 
     press ctrl + x and then y to save.
 
-    Now open Your Termux this script is autorun and secure termux.
+
 
 
